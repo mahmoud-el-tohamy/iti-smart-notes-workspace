@@ -11,7 +11,11 @@ A premium, full-stack note-taking application built as the final project for the
 
 Check out the full walkthrough of the application in the video below:
 
-<video src="./demo.mp4" width="100%" controls="controls"></video>
+
+
+https://github.com/user-attachments/assets/a2cbc4e7-8a07-4016-830c-90dbde294fc7
+
+
 
 ---
 
