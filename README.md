@@ -11,9 +11,7 @@ A premium, full-stack note-taking application built as the final project for the
 
 Check out the full walkthrough of the application in the video below:
 
-https://github.com/mahmoud-el-tohamy/iti-smart-notes-workspace/raw/main/demo.mp4
-
-*(If the video doesn't play natively, please download the `demo.mp4` file from this repository to view the 3-5 minute demo).*
+<video src="./demo.mp4" width="100%" controls="controls"></video>
 
 ---
 
